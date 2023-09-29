@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+✏️I'm a Game Engineering student at Univeristy of Silicon Valley. 
+🧑🏻‍💻You might see me working in C#, C++, Blueprints, GDScript, or Swift. 
+👾I mainly host school projects and game jam work. 
+
 <!--
 **marshallsandovalclark/marshallsandovalclark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
