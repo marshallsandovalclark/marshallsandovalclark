@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-✏️I recently graduated Univeristy of Silicon Valley with a degree in Game Engineering.   
+✏️I recently graduated University of Silicon Valley with a degree in Game Engineering.   
 🧑🏻‍💻You might see me working in C#, C++, Blueprints, GDScript, or Swift.   
 👾I mainly host school projects and game jam work on Github.   
 
